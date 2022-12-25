@@ -32,7 +32,7 @@ export default function InputField() {
       noValidate
       autoComplete="off"
     >
-      <h1>Add Article</h1>
+      <h1>Update Article</h1>
       <div>
         <TextField
           id="outlined-number"

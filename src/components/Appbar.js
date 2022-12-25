@@ -11,9 +11,6 @@ export default function Appbar() {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar variant="dense">
-          <IconButton edge="start" color="inherit" aria-label="slide-dot" sx={{ mr: 2 }}>
-            <MenuIcon />
-          </IconButton>
           <Typography variant="h6" color="inherit" component="div">
             StudyPlatform
           </Typography>
